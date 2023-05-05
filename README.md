@@ -18,7 +18,7 @@ docker-compose exec node npx ts-node src/index.ts split-voice-memo <inputFileNam
 ```
 3. Please check `voice/outputs` directory
 
-Note: In the case of a 60-minute file, it will be divided into a maximum of 6 separate files.
+Note:　In the case of a 60-minute file, it will be divided into a maximum of 6 separate files.
 
 #### transcribeAudio
 1. Please run splitVoiceMemo before this command.
@@ -38,7 +38,7 @@ docker-compose exec node npx ts-node src/index.ts summary-long-text <texts/origi
 ```
 3. Please check `texts/outputs` directory
 
-Note: If you omit the --debug option, you will only be able to obtain the final result.
+Note:　If you omit the --debug option, you will only be able to obtain the final result.
 
 ## Reference
 [NewsPicks](https://github.com/newspicks/learn-chatgpt-api)
