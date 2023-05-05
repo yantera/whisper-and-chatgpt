@@ -1,0 +1,13 @@
+.env
+.idea
+node_modules
+dist/*
+!dist/.gitkeep
+texts/origin/*
+!texts/origin/.gitkeep
+texts/outputs/*
+!texts/outputs/.gitkeep
+voices/origin/*
+!voices/origin/.gitkeep
+voices/outputs/*
+!voices/outputs/.gitkeep
