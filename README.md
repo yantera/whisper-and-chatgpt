@@ -36,5 +36,6 @@ docker-compose exec node npx ts-node src/index.ts summary-long-text <texts/origi
 Note: If you omit the --debug option, you will only be able to obtain the final result.
 
 ## Reference
-[NewsPicks(https://github.com/newspicks/learn-chatgpt-api)
+[NewsPicks](https://github.com/newspicks/learn-chatgpt-api)
+
 [OpenAI API](https://platform.openai.com/docs/api-reference)
