@@ -1,7 +1,7 @@
 # whisper-and-chatgpt
 ## SetUp
 1. Copy .env.sample to .env
-2. Set to OPENAI_API_KEY and OPENAI_API_ORGANIZATION_ID to .env
+2. Set to `OPENAI_API_KEY` and `OPENAI_API_ORGANIZATION_ID` to .env
 3. Run above commands
 ```bash
 docker-compose build --no-cache
